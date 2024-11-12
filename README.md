@@ -61,8 +61,8 @@ Open your browser and visit http://localhost:3000 to see the simulation interfac
 - The queues, delays, latency, throughput, and other relevant metrics will be displayed in real-time.
 - View the results in graphical form (charts) for performance analysis.
 ## Screenshot
-###Sample Example
-![Main Page](Screenshots/Screenshot 2024-11-12 203024.png)
+### Sample Example
+![](Screenshots/Screenshot1.png)
 
 ### Example
 An example of input parameters might look like:
@@ -73,10 +73,9 @@ An example of input parameters might look like:
 - 
 After the simulation starts, the algorithm will process the packets in a round-robin manner, and the frontend will display the results.
 
-###Contributing
+### Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements, bug fixes, or new features.
 
 ## Contact
 For any inquiries, feel free to contact me at krish542@github.com.
 
-This markdown file can be saved as `README.md` in your project repository. 
