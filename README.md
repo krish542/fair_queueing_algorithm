@@ -60,6 +60,9 @@ Open your browser and visit http://localhost:3000 to see the simulation interfac
 - Press Start Simulation to simulate the packet transmission.
 - The queues, delays, latency, throughput, and other relevant metrics will be displayed in real-time.
 - View the results in graphical form (charts) for performance analysis.
+## Screenshot
+###Sample Example
+![Main Page](Screenshots/Screenshot 2024-11-12 203024.png)
 
 ### Example
 An example of input parameters might look like:
